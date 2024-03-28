@@ -7,7 +7,7 @@
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">IEEE Transactions on Service Computing [To be submitted] (CCF-A)</div>
+    <div class="badge">IEEE TSC [Under Review] (CCF-A)</div>
     <img src='images/LEFT.png' alt="sym" width="100%">
 </div>
 
@@ -16,7 +16,7 @@
 
 LEFT: Efficient Large Entries Retrieval in Network Monitoring
 \\
-**Yuhui Li**, Wei Liang, Kun Xie, Naixue Xiong, Kuan-Ching Li
+Wei Liang, Yuhui Li, Kun Xie, Naixue Xiong, Dafang Zhang, Kuan-Ching Li
 
 <details close><summary>Paper Summary</summary>
 <div markdown="1">
@@ -35,7 +35,7 @@ LEFT: Efficient Large Entries Retrieval in Network Monitoring
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">INFOCOM 2023 (CCF-A)</div>
+    <div class="badge">IEEE INFOCOM 2023 (CCF-A)</div>
     <img src='images/LightNestle.png' alt="sym" width="100%">
 </div>
 
@@ -70,7 +70,7 @@ LightNestle: Quick and Accurate Neural Sequential Tensor Completion via Meta Lea
 <!-- Paper Text -->
 <div class='paper-box-text' markdown="1">
 
-ResNMMF: Real-Time Event-based Streaming Network Monitoring Data Recovery \\
+EventMon: Real-Time Event-based Streaming Network Monitoring Data Recovery \\
 **Yuhui Li**, Wei Liang, Kun Xie, Dafang Zhang, Kuan-Ching Li
 
 <details close><summary>Paper Summary</summary>
@@ -87,7 +87,7 @@ ResNMMF: Real-Time Event-based Streaming Network Monitoring Data Recovery \\
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">IEEE TNSE[Under Review] (CAS-2)</div>
+    <div class="badge">To be submit</div>
     <img src='images/LiteTC.png' alt="sym" width="100%">
 </div>
 
@@ -116,7 +116,7 @@ LiteTC: Simplifying Neural Tensor Completion via Knowledge Distillation
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">IEEE TC (CCF-A)</div>
+    <div class="badge">IEEE TC 2021(CCF-A)</div>
     <img src='images/TC2021.png' alt="sym" width="100%">
 </div>
 
@@ -195,7 +195,7 @@ Yuxiang Zeng, **Yuhui Li**, Zhiyu Xia, Zibo Du, Jialin Wang, Ruimin Lian, Jianlo
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">Connection Science (CCF-C)</div>
+    <div class="badge">Connection Science 2021 (CCF-C)</div>
     <img src='images/CS2020.png' alt="sym" width="100%">
 </div>
 
@@ -222,7 +222,7 @@ Jianlong Xu, Lijun Xiao, **Yuhui Li**, Mingwei Huang, Zicong Zhuang, Tien-Hsiung
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">IEEE TITS (CCF-B)</div>
+    <div class="badge">IEEE TITS 2022 (CCF-B)</div>
     <img src='images/TITS2021.png' alt="sym" width="100%">
 </div>
 
@@ -274,7 +274,7 @@ Zuhao Ge, **Yuhui Li**, Cheng Liang, Youyi Song, Teng Zhou, Jing Qin
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">IEEE/ACM TCBB (CCF-B)</div>
+    <div class="badge">IEEE/ACM TCBB 2022 (CCF-B)</div>
     <img src='images/TCBB2022.png' alt="sym" width="100%">
 </div>
 
