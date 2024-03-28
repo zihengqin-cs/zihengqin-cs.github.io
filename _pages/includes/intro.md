@@ -1,0 +1,4 @@
+# 👨‍🎓 About Me
+I was graduated from Shantou University with distinction (Rank 2/133, GPA 4.06/5.0) in July 2021 (Supervisor: [Dr. Jianlong Xu](https://eng.stu.edu.cn/info/1082/1784.htm)). Yuhui Li is an graduate student in Computer Science and Electronic Engineering  Department at Hunan University (Supervisor: Dr. [Wei Liang](https://computer.hnust.edu.cn/dsdw/liangwei.html)). 
+
+I have a broad research interest in network measurement, data mining, service computing, and deep learning. I have published several papers at the top computer conferences/journals such as IEEE ICME, IEEE INFOCOM, IEEE TC and IEEE TITS.
