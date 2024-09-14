@@ -7,7 +7,7 @@
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">IEEE TSC [Under Review] (CCF-A)</div>
+    <div class="badge">IEEE TNSM [Under Review]</div>
     <img src='images/LEFT.png' alt="sym" width="100%">
 </div>
 
