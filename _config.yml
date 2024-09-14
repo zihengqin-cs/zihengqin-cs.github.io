@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuhui Li - Homepage"
-description              : "Master Student at HNU"
+title                    : "LI Yuhui @ IMCL"
+description              : "PhD Student at HKPolyU"
 repository               : "merrillli/merrillli.github.io"
 
 # SEO Related
@@ -28,12 +28,12 @@ analytics:
 author:
   name             : "Yuhui Li"
   avatar           : "images/lyh.jpeg"
-  bio              : "Master Student at Hunan University"
-  location         : "Changsha, China"
+  bio              : "PhD Student at The Hong Kong Polytechnic University"
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "liyuhui@hnu.edu.cn"
+  email            : "merrill.li@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
