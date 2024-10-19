@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "LI Yuhui @ IMCL"
+title                    : "QIN Ziheng @ IMCL"
 description              : "PhD Student at HKPolyU"
-repository               : "merrillli/merrillli.github.io"
+repository               : "zihengqin-cs/zihengqin-cs.github.io"
 
 # SEO Related
 google_site_verification :
@@ -26,14 +26,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuhui Li"
-  avatar           : "images/lyh.jpeg"
+  name             : "QIN Ziheng"
+  avatar           : "images/zhqin.jpg"
   bio              : "PhD Student at The Hong Kong Polytechnic University"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "merrill.li@connect.polyu.hk"
+  email            : "zi-heng.qin@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -42,7 +42,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "merrillli"
+  github           : "zihengqin-cs"
   google_plus      :
   keybase          :
   instagram        :
