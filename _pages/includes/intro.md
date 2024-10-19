@@ -1,4 +1,7 @@
 # 👨‍🎓 About Me
-LI Yuhui (Merrill Y. Li) is currently a first-year PhD student in the Department of Computing at The Hong Kong Polytechnic University, supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~labimcl/director.html). Prior to that, he was graduated from College of Computer Science and Electronic Engineering at Hunan University (Supervisor: [Prof. Wei Liang](https://computer.hnust.edu.cn/dsdw/liangwei.html)) in June 2024. He graduated from Shantou University with distinction (Rank 2/133, GPA 4.06/5.0) in July 2021 (Supervisor: [Dr. Jianlong Xu](https://eng.stu.edu.cn/info/1082/1784.htm)). 
+QIN Ziheng is currently a first-year PhD student with the Department of Computing at The Hong Kong Polytechnic University, supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/).Prior to that, he was graduated from the School of Computer Science and Technology, Shandong University with [honors](https://jwc.wh.sdu.edu.cn/info/1032/6567.htm) in June 2024.
 
-I have a broad research interest in collaborative edge computing, network measurement, service computing, data mining, and deep learning. I have published several papers at the top computer conferences/journals such as IEEE ICME, IEEE INFOCOM, IEEE TC and IEEE TITS.
+I have a broad research interest in AI security, sensing security, edge computing. I'm focusing on enhancing the robustness of LLM/AIOT systems.
+<font color='red'> 
+  I'm actively looking for collaboration, especially related to Security and Privacy of AI/IOT systems. Pls feel free to exchange ideas with me :)
+</font>
