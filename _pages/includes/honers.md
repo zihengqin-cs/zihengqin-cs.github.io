@@ -10,5 +10,6 @@
 - Event Support Staff - MiddleWare 2024
 
 # 📚 Teaching Experience
+- Teaching Assistant, Computer Network, SDU, 2023/24-Sem2
 - Teaching Assistant, ENG2002, Computer Programming, PolyU, 2024/25-Sem1 
 - Teaching Assistant, COMP5112, Data Structures and Database Systems, PolyU, 2024/25-Sem2
